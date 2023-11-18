@@ -1,3 +1,8 @@
+' GitHub
+' https://github.com/darcy-it/yyyymmdd_filename_make_vbs/edit/main/yyyy_mmdd_hhmmss_.vbs
+'
+'
+
 ' 現在の日時を取得
 Dim currentDate
 currentDate = Now()
