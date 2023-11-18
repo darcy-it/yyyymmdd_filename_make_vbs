@@ -1,0 +1,2 @@
+# yyyymmdd_filename_make_vbs
+日付の任意のファイル名を作成するVBS
